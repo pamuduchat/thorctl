@@ -1,0 +1,7 @@
+# Vendor binaries and captures
+*.exe
+*.msi
+*.cab
+extracted/
+captures/*.pcap*
+__pycache__/
